@@ -28,7 +28,7 @@ This Power BI dashboard provides detailed insights into customer behavior, order
 ## 🖼️ Dashboard Preview
 You can include a screenshot here:
 ```markdown
-![Dashboard Screenshot](images/dashboard-preview.png.png)
+![Dashboard Screenshot](images/dashboard-preview.png)
 
 
 
