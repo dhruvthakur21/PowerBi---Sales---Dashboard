@@ -1,4 +1,3 @@
-# PowerBi---Sales---Dashboard
 # 📊 Power BI Project – Customer & Order Insights Dashboard
 
 ## 🔍 Overview
